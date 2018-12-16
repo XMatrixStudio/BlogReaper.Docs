@@ -1,5 +1,9 @@
 # BlogReaper.Docs
 
+## Web Site
+
+[BlogReaper](https://feed.xmatrix.studio)
+
 ## Server
 
 [BlogReaper](https://github.com/XMatrixStudio/BlogReaper)
